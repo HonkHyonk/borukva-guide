@@ -37,9 +37,19 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Вступ', link: '/mechanics/index' },
+          {text: 'Голосовий чат', link: '/mechanics/voice-chat'},
+          {text: 'Мапа сервера', link: '/mechanics/dynmap'},
+          {text: 'Артефакти', link: '/mechanics/artefacts'},
+          {text: 'Кастомні крафти', link: '/mechanics/custom-crafts'},
+          {text: 'Рейки', link: '/mechanics/rails'},
+          {text: 'Риболовля', link: '/mechanics/fishing'},
           { text: 'Фермерство', link: '/mechanics/farming'},
+          {text: 'Нові рослини', link: '/mechanics/new-plants'},
           { text: 'Їжа Борукви', link: '/mechanics/food'},  
-
+          {text: 'Броварництво', link: '/mechanics/brewery'},
+          {text: 'Меблі', link: '/mechanics/furniture'},
+          {text: 'Полотно', link: '/mechanics/canvas'},
+          {text: 'Радіо', link: '/mechanics/radio'},
         ]
       }
       

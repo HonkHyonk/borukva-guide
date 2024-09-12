@@ -1,8 +1,8 @@
 ---
 title: Вступ
 next:
- text: 'Артефакти'
- link: '/mechanics/artefacts'
+ text: 'Голосовий чат'
+ link: '/mechanics/voice-chat'
 ---
 
 <script setup>

@@ -7,8 +7,8 @@ prev:
  link: /mechanics/new-plants/
 
 next:
- text: Меблі
- link: /mechanics/mebels/
+ text: Броварництво
+ link: /mechanics/brewery/
 
 
 ---
@@ -40,7 +40,7 @@ master
 
 Крафт ножа:
 
-<img src='' alt='ніж'></img>
+<img src='/images/mechanics/food/knife.png' alt='ніж' width=50% height=50%></img>
 
 Всі доступні крафти за допомогою дошки:
 <img src='\images\mechanics\food\crafts.png' alt='крафти' width=80% height=50%></img>

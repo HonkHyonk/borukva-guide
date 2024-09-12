@@ -3,12 +3,12 @@ title: Артефакти
 description: xxx
 
 prev:
- text: Вступ
- link: /mechanics/index/
+ text: Мапа серверу
+ link: /mechanics/dynmap/
 
 next:
- text: Риболовля
- link: /mechanics/fishing/
+ text: Кастомні крафти
+ link: /mechanics/custom-crafts/
 
 
 ---
